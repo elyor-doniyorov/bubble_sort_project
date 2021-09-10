@@ -19,9 +19,9 @@ Additional description about the project and its features.
 
 ## Authors
 
-- GitHub: [@Elyor](https://github.com/EL28DEV)
-- LinkedIn: [Elyor](https://www.linkedin.com/feed/)
-- Twitter: [@elyor-doniyorov](https://twitter.com/home?lang=ru)
+- GitHub: [@elyor-doniyorov](https://github.com/elyor-doniyorov)
+- LinkedIn: [@elyor-doniyorov](https://www.linkedin.com/elyor-doniyorov/)
+- Twitter: [@elyor-doniyorov](https://twitter.com/elyor-doniyorov)
 
 ## Authors
 
